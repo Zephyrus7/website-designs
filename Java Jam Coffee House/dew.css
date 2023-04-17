@@ -1,0 +1,42 @@
+﻿body{
+		font-family: Arial, Helvetica, sans-serif; color: dimgray; background-color: #E6E3CC;
+	}	
+
+	h2	{
+		font-family: "Trebuchet MS", "lucida Sans Unicode", "Lucida Grande";
+		color: #643E46;
+		background-color: #C7C28F;
+		font-variant: small-caps;
+		text-transform: capitalize;
+	}
+	ul {
+	list-style-image: url('marker.gif');
+	}
+
+	#allPage {
+		width: 980px; 
+	margin-right: auto;
+	margin-left: auto;
+	}
+
+	#copyright {
+		font-size: x-small;
+		color: #643E46;
+		background-color: C7C28F;
+	}
+
+	a {
+		text-decoration: none ;
+		color: #643646;
+
+	}
+
+	a:hover{
+		text-decoration: underline overline;
+		background-color: #C7C28F;
+	}
+
+	nav {
+		text-align: center;
+
+	}
