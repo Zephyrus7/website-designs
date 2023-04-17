@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>Form Basics</title>
+<link rel="stylesheet" type="text/css" href="week10.css">
+</head>
+<body>
+<div id="content" >
+<h1>New HTML5 Input Type Demo</h1>
+<p>This form demonstrates the new HTML5 input types and the attributes</p>
+<form method = "post" action = "mailto:herbil@my.centennialcollege.ca">
+<form>
+<fieldset>
+<legend>New HTML5 Input Types</legend>	
+<p>
+<label>Color:
+	<input type="color" autofocus/>
+	(Hexadecimal code such as #ADD8E6)
+			
+		</label>
+	</p>
+	<p>
+	<label> Date:
+		<input type="date" />
+		<yyyy-mm-dd)>
+	</label>
+	</p>
+	<p>
+	<label> Datetime:
+		<input type="datetime" />
+		<yyyy-mm-ddThh:mm, such as 2014-01-27T03:15)>
+	</label>
+	</p>
+	<p>
+	<label> Datetime-Local:
+		<input type="date-local" />
+		<yyyy-mm-ddThh:mm, such as 2014-01-27T03:15)>
+	</label>
+	</p>
+	<p>
+	<label> E-mail:
+		<input type="email" placeholder="name@domain.com" required /> (name@domain.com)
+		<yyyy-mm-dd)>
+	</label>
+	</p>
+	<p>
+	<label> Month:
+		<input type="month" />(yyyy-mm)
+	</label>
+	</p>
+	<p>
+	<label> Number
+		<input type="number"
+		min="0"
+		max="7"
+		step="1"
+		value="4" 
+		/>
+	</label>(Enter a number between 0 and 7)
+	</p>
+	<p>
+	<label> Range:
+		0<input type="range"
+		min="0"
+		max="20"
+		value="10" /> 20
+		
+	</label>
+	</p>
+	<p>
+	<label> Search:
+		<input type="search" placeholder="search query" />
+	</label> Enter your search query
+	</p>
+	<p>
+	<label> Tel:
+		<input type="tel" placeholder="(###)###-####" 
+		pattern="\(\d{3}\) +\d{3}-\d{4}" required/>
+		(###)###-####
+	</label>
+	</p>
+	<p>
+	<label> Time:
+		<input type="time" />
+		(hh:mm)
+		
+	</label>
+	</p>
+	<p>
+	<label> URL:
+		<input type="url" placeholder="http://www.domainname.com" />(http://www.domainname.com)
+		
+	</label>
+	</p>
+	<p>
+	<label> Week:
+		<input type="week" />
+		<yyyy-Wnn such as 2014-W01)>
+	</label>
+	</p>
+	<p>
+	<input type="submit" value="Submit Form" />
+	<input type="reset" value="Clear Form" />
+		</p>
+	
+
+</fieldset>
+</form>
+</div>
+</body>
+</html>
