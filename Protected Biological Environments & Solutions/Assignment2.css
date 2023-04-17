@@ -1,0 +1,51 @@
+body{
+		font-family:'Open Sans', sans-serif;; color: dimgray; background-color: #E6E3CC;
+	}	
+
+	h2	{
+		font-family: 'Open Sans', sans-serif;
+		color: #E05B1E;
+		background-color: #DAA100F;
+		
+	}
+	ul {
+	list-style-image: url('marker.gif');
+	}
+
+	#allPage {
+		width: 1250px; 
+	margin-right: auto;
+	margin-left: auto;
+	}
+
+	#copyright {
+		font-size: smaller;
+		color: #643E46;
+		background-color: #052440;
+	}
+
+	#roundedCorner
+	{
+  width:350px;height:200px;
+  border: solid 1px #555;
+  background-color: #eed;
+  box-shadow: 10px -10px 5px  rgba(0,0,0,0.6);
+  -moz-box-shadow: 10px -10px 5px  rgba(0,0,0,0.6);
+  -webkit-box-shadow: 10px -10px 5px  rgba(0,0,0,0.6);
+  -o-box-shadow: 10px -10px 5px  rgba(0,0,0,0.6);
+  border-radius:25px;
+	}
+
+
+	a {
+		text-decoration: none ;
+		color: #078BCF;
+
+	}
+
+	a:hover{
+		text-decoration: underline overline;
+		background-color: #F0BF52;
+	}
+
+	
