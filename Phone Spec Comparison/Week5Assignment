@@ -1,0 +1,189 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<head>
+    
+<title>Week05</title>
+</head>
+
+
+<body>
+<div>
+<table style="width: 100%;">
+<tr>
+    
+    <img alt="logo" height="53" src="logo.gif" width="205">
+
+<h3></h3>
+</td>
+
+<td style="vertical-align: bottom; text-align: right;">
+    
+    <a href="mailto:herbil@my.centennialcollege.ca">Mail us</a>
+
+</td>
+</tr>   
+<tr>
+<td><a href="https://www.centennialcollege.ca/">Centennial College</a></td> 
+<a href="https://www.centennialcollege.ca/">Course Website</a>
+<a href="https://mysso.centennialcollege.ca/">Centennial Login</a>
+</td>
+<td>
+<table>
+    <caption><h2>Best Selling Phones for Fall 2019</h2></caption>
+    <thead>
+        <tr>
+            <th>Picture</th>
+            <th>Features</th>
+            <th>Plans</th>
+        </tr>
+    <tbody>
+    <tr>
+        <td>
+            <img alt="iphone" height="115" src="iphone.jpg" width="77">
+            <td>
+                <h4>IPHONE</h4>
+                <ul>IPHONE 6S
+<li>Faster performance </li>
+<li>Revolutionary mobile phone </li>
+<li>Great widescreen iPod </li>
+<li>Breakthrough Internet device</li> 
+<li>Maps with GPS + digital compass* </li>
+<li>Video recording </li>
+<li>3-megapixel autofocus camera</li> 
+<li>Voice Control </li>
+<li>VoiceOver </li>
+<li>Messages with MMS support </li>
+<li>Thousands of apps on the App Store </li>
+<li>16GB </li>
+<li>Black | White </li>
+</ul>
+            </td>
+        </td>
+
+        <td>
+            <table style="width:100%" cellpadding="3" cellspacing="0">
+                <tr class="oddrow">
+                    <th>Term</th>
+                    <th>Price</th>
+                </tr>
+                    <tr>
+                        <td>2 Years plan</td>
+                        <td>399TL</td>
+                    </tr>
+                    <tr>
+                        <td> 1 Years plan</td>
+                        <td>499TL</td>
+                    </tr>
+                    <tr>
+                        <td>No Term</td>
+                        <td>699TL</td>
+                    </tr>
+            </table>
+
+
+        </td>
+
+        <tr>
+            <td>
+                <img alt="Samsung" height="115" src="samsung.jpg" width="77">
+                <td>
+                    <h4>SAMSUNG</h4>
+                    <ul>
+                        <li>Easy integration of Google applications and services, just by entering your Google account username and password</li>
+                        <li>Seamless multi-tasking, with the ability to use different applications at the same time</li>
+                        <li>Get a desktop like browsing experience with Adobe® Flash Player support to see embedded videos</li>
+                        <li>Multiple home screens that you can fully personalize with your choice of dynamic widgets and applications</li>
+                    </ul>
+                </td>
+            </td>
+            <td>
+                <table>
+                    <tr>
+                        <th>Term</th>
+                        <th>Price</th>
+                    </tr>
+                        <tr>
+                            <td>2 Years</td>
+                            <td>299TL</td>
+                        </tr>
+                        <tr>
+                            <td>1 Years</td>
+                            <td>399TL</td>
+                        </tr>
+                        <tr>
+                            <td>No Term</td>
+                            <td>599TL</td>
+                        </tr>
+                </table>
+            </td>
+        </tr>
+            <td>
+                <img alt="Blackberry" height="115" src="blackberry.jpg" width="77">
+            </td>
+            <td>
+                <h4>BLACKBERRY</h4>
+                <ul>
+                    <li>High-speed access to the TELUS 3G network</li> 
+                    <li>TELUS International Roaming </li>
+                    <li>TELUS Navigator with new 3D maps</li> 
+                    <li>Bluetooth® 2.0 </li>
+                    <li>BlackBerry® App World™ </li>
+                    <li>Expandable microSD™ slot (up to 16GB) </li>
+                    <li>3.2MP camera with flash and video capture</li> 
+                </ul>
+            </td>
+                <td>
+                    <table style="width:100%" cellpadding="3" cellspacing="0">
+                        <tr>
+                            <th>Term</th>
+                            <th>Price</th>
+                        </tr>
+                        <tr>
+                            <td>2 Years</td>
+                            <td>99TL</td>
+                        </tr>
+                        <tr>
+                            <td>1 Years</td>
+                            <td>199TL</td>
+                        </tr>
+                        <tr>
+                            <td>No Term</td>
+                            <td>399TL</td>
+                        </tr>
+                    </table>
+                </td>
+                    <tr>
+                        <td colspan="3">
+                            <map>
+                                <area title="Ontario" alt="" coords="258, 262, 298, 270, 302, 292, 314, 303, 331, 342, 364, 348, 349, 374, 320, 396, 313, 398, 317, 362, 273, 334, 263, 344, 230, 337, 227, 299" href="http://www.hydroone.com/Pages/default.aspx" shape="poly">
+                                <area title="Quebec" alt="" coords="299, 202, 319, 199, 355, 221, 361, 196, 388, 237, 368, 254, 395, 270, 430, 245, 427, 273, 410, 300, 389, 318, 389, 343, 368, 345, 335, 338, 319, 304, 320, 287, 310, 273, 321, 249, 302, 233" href="http://www.telqc.com/" shape="poly">
+                                <area title="Manitoba" alt="" coords="195, 234, 229, 231, 228, 241, 236, 247, 248, 260, 258, 260, 225, 296, 226, 336, 190, 334" href="https://www.mts.ca/mts/personal" shape="poly">
+        </map>
+                            
+                            <img alt="map of CA" height="408" src="map-canada-provinces.jpg" width="">
+                        </td>
+                    </tr>
+    </tr>
+    </tbody>
+    <tfoot>
+    </tfoot>
+    <table>
+        </td>
+        </tr>
+            <tfoot>
+                <tr>
+                    
+                </tr>
+            </tfoot>    
+    </table>
+    </thead>
+</td>
+</tr>
+</table>
+    
+</td>
+</tr>
+</table>    
+</div>  
+</body>
